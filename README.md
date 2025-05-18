@@ -1,4 +1,4 @@
-# "Complete Build Retooling of jenkins.io"
+# Complete Build Retooling of jenkins.io
 
 <p align="center">
   <img src="./images/gsoc.jpeg" alt="GSoC Banner" width="300"/>
