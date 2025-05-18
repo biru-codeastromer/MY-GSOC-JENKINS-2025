@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="./images/gsoc.jpeg" alt="GSoC Banner" width="300"/>
+</p>
+<p align="center">
   <img src="./images/jenkinsGsoc.jpeg" alt="Jenkins GSoC" width="300"/>
 </p>
 
